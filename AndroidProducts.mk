@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_violet.mk
+    $(LOCAL_DIR)/lmodroid_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_violet-eng \
-    lineage_violet-userdebug \
-    lineage_violet-user
+    lmodroid_violet-eng \
+    lmodroid_violet-userdebug \
+    lmodroid_violet-user
